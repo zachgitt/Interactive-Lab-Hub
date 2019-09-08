@@ -1,6 +1,5 @@
 # Interactive-Lab-Hub
 
-Completed Labs for John Q. Student
+Completed Labs for Zachary Gittelman
 
-1. [John Q's Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
-2. [John Q's Lab 2](//github.com/johnqstudent/idd-fa18-lab2)
+1. [Zachary Gittelman's Lab 1](//github.com/zachgitt/IDD-Fa18-Lab1)
