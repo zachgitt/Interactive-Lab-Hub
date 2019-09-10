@@ -3,4 +3,4 @@
 Completed Labs for Zachary Gittelman
 
 
-1. [Zachary Gittelman's Lab 1](//github.com/zachgitt/IDD-Fa1-Lab1)
+1. [Zachary Gittelman's Lab 1](https://github.com/zachgitt/IDD-Fa19-Lab1)
