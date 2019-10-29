@@ -8,4 +8,5 @@ Completed Labs for Zachary Gittelman
 3. [Lab 3](https://github.com/zachgitt/IDD-Fa19-Lab3)
 4. [Lab 4](https://github.com/zachgitt/IDD-Fa19-Lab4)
 5. [Lab 5](https://github.com/zachgitt/IDD-Fa19-Lab5)
-5. [Lab 6](https://github.com/zachgitt/IDD-Fa19-Lab6)
+6. [Lab 6](https://github.com/zachgitt/IDD-Fa19-Lab6)
+7. [Lab 7](https://github.com/zachgitt/IDD-Fa19-Lab7)
